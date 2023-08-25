@@ -1,0 +1,86 @@
+[
+    {
+        "precio": 25,
+        "id": 1,
+        "title": "Algodon de azucar",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/alg.jpg"
+    },
+
+    {
+        "precio": 5,
+        "id": 2,
+        "title": "Baston de menta",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/bas.jpg"
+    },
+
+    {
+        "precio": 10,
+        "id": 3,
+        "title": "Buubaloo",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/bub.jpg"
+    },
+
+    {
+        "precio": 10,
+        "id": 4,
+        "title": "Carlos V",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/car.jpeg"
+    },
+
+    {
+        "precio": 20,
+        "id": 5,
+        "title": "Cheetos",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/che.jpg"
+    },
+
+    {
+        "precio": 15,
+        "id": 6,
+        "title": "Fritos",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/fri.jpg"
+    },
+
+    {
+        "precio": 15,
+        "id": 7,
+        "title": "Trident",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/tri.png"
+    },
+
+    {
+        "precio": 15,
+        "id": 8,
+        "title": "Dulce de tamarindo",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/tam.jpg"
+    },
+
+    {
+        "precio": 10,
+        "id": 9,
+        "title": "Tootsie Roll",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/tot.jpg"
+    },
+
+    {
+        "precio": 25,
+        "id": 10,
+        "title": "Pretzel",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/pre.png"
+    },
+
+    {
+        "precio": 10,
+        "id": 11,
+        "title": "Paleta payaso",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/pay.jpg"
+    },
+
+    {
+        "precio": 15,
+        "id": 12,
+        "title": "Haribo Goldbears",
+        "thumbnailURL": "https://sitiogamaliel.000webhostapp.com/imagenes/gol.jpg"
+    }
+
+]
